@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="gazp">
+        <g transform="matrix(0.850159,0,0,0.651466,65.262,6.68689)">
+            <rect x="-76.764" y="-10.264" width="941" height="614" style="fill:rgb(0,121,194);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-4.66667)">
+            <g transform="matrix(0.850159,0,0,0.2443,65.262,7.16239)">
+                <rect x="-76.764" y="-10.264" width="941" height="614" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-61,-32.9118)">
+                <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:72px;">#GASP</text>
+            </g>
+            <g transform="matrix(1,0,0,1,44.2097,19.2278)">
+                <g transform="matrix(0.489422,0,0,0.489422,0.290009,0.218018)">
+                    <path d="M136.127,44.69C130.928,21.933 117.9,3.42 116.104,0.427C113.265,4.673 102.874,21.028 97.592,39.123C91.822,59.375 90.973,77.331 92.964,94.939C94.94,112.616 102.408,130.781 102.408,130.781C106.375,140.246 112.318,150.476 116.188,155.487C121.86,148.11 134.895,126.118 138.96,97.444C141.222,81.437 141.319,67.448 136.127,44.69ZM116.104,149.78C113.55,144.978 109.583,135.861 109.207,121.664C109.11,108.023 114.587,96.261 116.188,93.825C117.615,96.261 122.333,106.492 122.897,120.481C123.28,134.121 118.742,144.909 116.104,149.78ZM134.617,83.316C134.422,92.016 133.385,101.202 132.063,106.701C132.536,97.235 131.402,83.943 129.23,73.503C127.059,63.133 120.913,45.734 116.007,37.731C111.476,45.387 105.895,60.419 102.972,73.434C100.035,86.448 99.951,102.246 99.951,106.979C99.172,103.012 97.223,88.745 97.773,74.478C98.232,62.716 100.988,50.537 102.498,44.969C108.261,26.387 114.782,14.486 116.007,12.607C117.232,14.486 125.444,29.171 129.703,44.552C133.942,59.932 134.798,74.686 134.617,83.316Z" style="fill:rgb(0,121,194);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0.489422,0,0,0.489422,0.290009,0.218018)">
+                    <path d="M147.311,160.777L85.399,160.777L85.399,187.293C85.434,187.293 85.461,187.223 85.496,187.223C94.808,177.897 109.91,177.897 119.229,187.223C128.541,196.479 128.541,211.582 119.229,220.908C119.187,220.977 119.146,220.977 119.104,221.047C119.055,221.047 119.007,221.116 118.965,221.186C109.674,230.372 97.536,234.966 85.399,234.966C73.205,234.966 61.012,230.372 51.714,221.047C35.317,204.692 33.376,179.289 45.875,160.777C47.559,158.271 49.501,155.905 51.714,153.678C61.012,144.352 73.205,139.758 85.399,139.758L85.399,76.009C38.547,76.009 0.568,113.939 0.568,160.777C0.568,207.615 38.547,245.614 85.399,245.614C109.827,245.614 131.833,235.244 147.311,218.75L147.311,160.777Z" style="fill:rgb(0,121,194);fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,258.036,-48.2623)">
+                <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:30px;">04.10.22</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-221.595,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">цель 1:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.5947,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">цель 2::</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-221.595,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">285 Р</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.5947,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">340 Р</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-221.595,140.446)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">V в су<tspan x="287.22px 299.056px " y="138.736px 138.736px ">мм</tspan>е:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.5947,140.446)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">Ко<tspan x="259.564px 271.4px " y="138.736px 138.736px ">мм</tspan>ентарий:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-221.595,187.446)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">min</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.5947,179.446)">
+            <text x="240.236px" y="138.736px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">Не<tspan x="260.509px 269.673px 278.22px 287.556px " y="138.736px 138.736px 138.736px 138.736px ">боль</tspan>шой к<tspan x="338.189px 347.087px " y="138.736px 138.736px ">ом</tspan>мент<tspan x="393.97px 402.868px " y="138.736px 138.736px ">ар</tspan>ий о смысле э<tspan x="516.423px 523.572px 532.47px 537.954px 546.853px " y="138.736px 138.736px 138.736px 138.736px 138.736px ">того </tspan>маневра, с легким</text>
+            <text x="240.236px" y="159.648px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">об<tspan x="257.767px 267.767px " y="159.648px 159.648px ">ъя</tspan>снением по<tspan x="361.493px 369.829px 378.728px 389.907px 397.907px " y="159.648px 159.648px 159.648px 159.648px 159.648px ">чему </tspan>именно т<tspan x="469.353px 478.251px " y="159.648px 159.648px ">ак</tspan> ну<tspan x="506.712px 517.415px " y="159.648px 159.648px ">жн</tspan>о и чт<tspan x="568.462px 577.361px " y="159.648px 159.648px ">о </tspan>де<tspan x="599.509px 608.845px 617.392px 624.72px " y="159.648px 159.648px 159.648px 159.648px ">лать</tspan> по<tspan x="654.712px 661.861px 670.759px " y="159.648px 159.648px 159.648px ">том</tspan>.</text>
+            <text x="240.236px" y="180.561px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">Ве<tspan x="259.454px 268.79px " y="180.561px 180.561px ">дь</tspan> о<tspan x="290.118px 298.454px " y="180.561px 180.561px ">че</tspan>нь инт<tspan x="353.892px 362.79px " y="180.561px 180.561px ">ер</tspan>есно зна<tspan x="435.486px 442.814px " y="180.561px 180.561px ">ть</tspan> к<tspan x="462.947px 471.845px " y="180.561px 180.561px ">ак</tspan> б<tspan x="492.103px 499.572px 508.907px 517.275px 524.603px " y="180.561px 180.561px 180.561px 180.561px 180.561px ">удет </tspan>на самом де<tspan x="621.173px 630.509px " y="180.561px 180.561px ">ле</tspan>.</text>
+        </g>
+        <g transform="matrix(1,0,0,1,99.072,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">L<tspan x="249.72px 254.165px " y="138.736px 138.736px "> /</tspan> S:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,99.072,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">L</text>
+        </g>
+        <g transform="matrix(1,0,0,1,258.405,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">вх<tspan x="258.572px 268.134px 278.29px " y="138.736px 138.736px 138.736px ">од:</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,258.405,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">200 Р</text>
+        </g>
+        <g transform="matrix(1,0,0,1,418.405,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">ст<tspan x="256.759px 266.532px " y="138.736px 138.736px ">оп</tspan>:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,418.405,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">170 Р</text>
+        </g>
+    </g>
+    <g id="lkoh">
+        <g transform="matrix(0.850159,0,0,0.651466,65.262,6.68689)">
+            <rect x="-76.764" y="-10.264" width="941" height="614" style="fill:rgb(237,27,52);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-4.66667)">
+            <g transform="matrix(0.850159,0,0,0.2443,65.262,7.16239)">
+                <rect x="-76.764" y="-10.264" width="941" height="614" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-60.6667,-32.9118)">
+                <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:72px;">#LKOH</text>
+            </g>
+            <g transform="matrix(1,0,0,1,19.5431,19.2278)">
+                <g transform="matrix(0.489422,0,0,0.489422,0.290009,0.218018)">
+                    <path d="M136.127,44.69C130.928,21.933 117.9,3.42 116.104,0.427C113.265,4.673 102.874,21.028 97.592,39.123C91.822,59.375 90.973,77.331 92.964,94.939C94.94,112.616 102.408,130.781 102.408,130.781C106.375,140.246 112.318,150.476 116.188,155.487C121.86,148.11 134.895,126.118 138.96,97.444C141.222,81.437 141.319,67.448 136.127,44.69ZM116.104,149.78C113.55,144.978 109.583,135.861 109.207,121.664C109.11,108.023 114.587,96.261 116.188,93.825C117.615,96.261 122.333,106.492 122.897,120.481C123.28,134.121 118.742,144.909 116.104,149.78ZM134.617,83.316C134.422,92.016 133.385,101.202 132.063,106.701C132.536,97.235 131.402,83.943 129.23,73.503C127.059,63.133 120.913,45.734 116.007,37.731C111.476,45.387 105.895,60.419 102.972,73.434C100.035,86.448 99.951,102.246 99.951,106.979C99.172,103.012 97.223,88.745 97.773,74.478C98.232,62.716 100.988,50.537 102.498,44.969C108.261,26.387 114.782,14.486 116.007,12.607C117.232,14.486 125.444,29.171 129.703,44.552C133.942,59.932 134.798,74.686 134.617,83.316Z" style="fill:rgb(0,121,194);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0.489422,0,0,0.489422,0.290009,0.218018)">
+                    <path d="M147.311,160.777L85.399,160.777L85.399,187.293C85.434,187.293 85.461,187.223 85.496,187.223C94.808,177.897 109.91,177.897 119.229,187.223C128.541,196.479 128.541,211.582 119.229,220.908C119.187,220.977 119.146,220.977 119.104,221.047C119.055,221.047 119.007,221.116 118.965,221.186C109.674,230.372 97.536,234.966 85.399,234.966C73.205,234.966 61.012,230.372 51.714,221.047C35.317,204.692 33.376,179.289 45.875,160.777C47.559,158.271 49.501,155.905 51.714,153.678C61.012,144.352 73.205,139.758 85.399,139.758L85.399,76.009C38.547,76.009 0.568,113.939 0.568,160.777C0.568,207.615 38.547,245.614 85.399,245.614C109.827,245.614 131.833,235.244 147.311,218.75L147.311,160.777Z" style="fill:rgb(0,121,194);fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.987207,0,0,0.987207,-24.7551,-49.7155)">
+                <g transform="matrix(1,0,0,1,45.1367,60.0992)">
+                    <rect x="0.579" y="10.779" width="121.555" height="121.488" style="fill:rgb(237,27,52);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,45.1367,60.0992)">
+                    <path d="M102.51,22.903C99.716,22.903 97.591,24.736 96.534,26.958L81.229,52.153C80.172,54.481 79.401,57.096 79.401,58.833C79.401,60.385 79.602,61.743 80.174,63.005L96.721,102.52L32.433,102.52C30.124,102.52 28.214,100.211 28.214,98.067L28.214,29.958C27.729,20.654 14.349,20.654 14.058,30.239L14.339,102.52C14.339,110.378 20.415,116.676 28.214,116.676L115.87,116.676L94.518,62.044C93.936,60.006 93.645,58.164 95.081,55.739L109.237,32.77C109.44,32.285 109.706,30.249 109.706,29.677C109.424,25.505 106.168,22.709 102.51,22.903ZM67.799,22.926C64.36,22.951 60.932,25.306 60.932,29.958L60.932,78.708C60.932,85.78 51.393,85.208 51.393,78.708L51.393,29.958C51.393,20.654 37.635,20.654 37.635,29.958L37.635,79.083C37.635,90.317 45.999,97.786 56.01,97.786C66.303,97.786 74.69,90.317 74.69,79.083L74.69,29.958C74.69,25.209 71.239,22.902 67.799,22.926Z" style="fill:white;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,258.036,-48.2623)">
+                <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:30px;">04.10.22</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-221.595,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">цель 1:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.5947,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">цель 2::</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-221.595,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">4500 Р</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.5947,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">4800 Р</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-221.595,140.446)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">V в су<tspan x="287.22px 299.056px " y="138.736px 138.736px ">мм</tspan>е:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.5947,140.446)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">Ко<tspan x="259.564px 271.4px " y="138.736px 138.736px ">мм</tspan>ентарий:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-221.595,187.446)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">max</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.5947,179.446)">
+            <text x="240.236px" y="138.736px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">Не<tspan x="260.509px 269.673px 278.22px 287.556px " y="138.736px 138.736px 138.736px 138.736px ">боль</tspan>шой к<tspan x="338.189px 347.087px " y="138.736px 138.736px ">ом</tspan>мент<tspan x="393.97px 402.868px " y="138.736px 138.736px ">ар</tspan>ий о смысле э<tspan x="516.423px 523.572px 532.47px 537.954px 546.853px " y="138.736px 138.736px 138.736px 138.736px 138.736px ">того </tspan>маневра, с легким</text>
+            <text x="240.236px" y="159.648px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">об<tspan x="257.767px 267.767px " y="159.648px 159.648px ">ъя</tspan>снением по<tspan x="361.493px 369.829px 378.728px 389.907px 397.907px " y="159.648px 159.648px 159.648px 159.648px 159.648px ">чему </tspan>именно т<tspan x="469.353px 478.251px " y="159.648px 159.648px ">ак</tspan> ну<tspan x="506.712px 517.415px " y="159.648px 159.648px ">жн</tspan>о и чт<tspan x="568.462px 577.361px " y="159.648px 159.648px ">о </tspan>де<tspan x="599.509px 608.845px 617.392px 624.72px " y="159.648px 159.648px 159.648px 159.648px ">лать</tspan> по<tspan x="654.712px 661.861px 670.759px " y="159.648px 159.648px 159.648px ">том</tspan>.</text>
+            <text x="240.236px" y="180.561px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">Ве<tspan x="259.454px 268.79px " y="180.561px 180.561px ">дь</tspan> о<tspan x="290.118px 298.454px " y="180.561px 180.561px ">че</tspan>нь инт<tspan x="353.892px 362.79px " y="180.561px 180.561px ">ер</tspan>есно зна<tspan x="435.486px 442.814px " y="180.561px 180.561px ">ть</tspan> к<tspan x="462.947px 471.845px " y="180.561px 180.561px ">ак</tspan> б<tspan x="492.103px 499.572px 508.907px 517.275px 524.603px " y="180.561px 180.561px 180.561px 180.561px 180.561px ">удет </tspan>на самом де<tspan x="621.173px 630.509px " y="180.561px 180.561px ">ле</tspan>.</text>
+        </g>
+        <g transform="matrix(1,0,0,1,99.072,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">L<tspan x="249.72px 254.165px " y="138.736px 138.736px "> /</tspan> S:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,99.072,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">L</text>
+        </g>
+        <g transform="matrix(1,0,0,1,258.405,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">вх<tspan x="258.572px 268.134px 278.29px " y="138.736px 138.736px 138.736px ">од:</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,258.405,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">3900 Р</text>
+        </g>
+        <g transform="matrix(1,0,0,1,418.405,42.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:white;">ст<tspan x="256.759px 266.532px " y="138.736px 138.736px ">оп</tspan>:</text>
+        </g>
+        <g transform="matrix(1,0,0,1,418.405,89.4462)">
+            <text x="240.236px" y="138.736px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36px;fill:white;">3700 Р</text>
+        </g>
+    </g>
+</svg>

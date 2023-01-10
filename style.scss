@@ -184,3 +184,23 @@ img {
     padding: 6px 15px;
   }
 }
+
+
+// Новые стили  
+.reference__caps {
+  span {
+    font-size: 16px;
+    display: block;
+    margin-top: 12px;
+  }
+}
+
+.section--mod .reference__summary {
+  display: block;
+}
+
+.reference__footer-text {
+  margin: 0;
+  font-size: 16px;
+  margin-top: 32px;
+}
